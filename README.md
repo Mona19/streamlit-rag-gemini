@@ -5,6 +5,7 @@
 | Author(s) | [mmona19](https://github.com/mmona19) |
 
 ## Overview
+This app allows users to deploy a RAG based app with multiple model choice such as Gemini, Mixtral and Openllama to perform single doucment serach and question answering as well as multiple document search and quetsion answering.
 
 To run this locally
 gcloud set project config <project id>
