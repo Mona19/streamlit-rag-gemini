@@ -2,11 +2,13 @@
 
 |           |                                                     |
 | --------- | --------------------------------------------------- |
-| Author(s) | [Kristopher Overholt](https://github.com/mmona19) |
+| Author(s) | [mmona19](https://github.com/mmona19) |
 
 ## Overview
 
-
+To run this locally
+gcloud set project config <project id>
+bash setup.sh
 
 
 
