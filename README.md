@@ -19,10 +19,9 @@ bash setup.sh
 When deploying this app to Cloud Run, a best practice is to [create a service
 account](https://cloud.google.com/iam/docs/service-accounts-create) to attach
 the following roles to, which are the permissions required for the app to read
-data from BigQuery, run BigQuery jobs, and use resources in Vertex AI:
+data and use resources in Vertex AI:
 
-- [BigQuery Data Viewer](https://cloud.google.com/bigquery/docs/access-control#bigquery.dataViewer) (`roles/bigquery.dataViewer`)
-- [BigQuery Job User](https://cloud.google.com/bigquery/docs/access-control#bigquery.jobUser) (`roles/bigquery.jobUser`)
+
 - [Vertex AI User](https://cloud.google.com/vertex-ai/docs/general/access-control#aiplatform.user) (`roles/aiplatform.user`)
 
 To deploy this app to
