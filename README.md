@@ -1,4 +1,4 @@
-# Single document and multiple document question answering streamlit
+# Single document and multiple document question answering with RAG Streamlit app
 
 |           |                                                     |
 | --------- | --------------------------------------------------- |
