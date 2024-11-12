@@ -31,7 +31,7 @@ Run, replacing the `service-account` and `project` values with your own values,
 similar to:
 
 ```shell
-gcloud run deploy sql-talk --allow-unauthenticated --region us-central1 --service-account SERVICE_ACCOUNT_NAME@PROJECT_ID.iam.gserviceaccount.com --source .
+gcloud run deploy streamlit-rag-gemini --allow-unauthenticated --region us-central1 --service-account SERVICE_ACCOUNT_NAME@PROJECT_ID.iam.gserviceaccount.com --source .
 ```
 
 After deploying your app, you should can visit the app URL, which should be
