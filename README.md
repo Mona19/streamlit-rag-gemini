@@ -40,4 +40,4 @@ similar to:
 
 
 
-Congratulations, you've successfully deployed the SQL Talk demo app!
+Congratulations, you've successfully deployed the demo app!
